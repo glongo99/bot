@@ -1,0 +1,16 @@
+Flask
+folium
+requests
+paho-mqtt
+python-telegram-bot
+shapely
+time
+random
+json
+threading
+sys
+asyncio
+os
+telegram
+datetime
+
